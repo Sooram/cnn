@@ -7,6 +7,6 @@ RAM: https://arxiv.org/pdf/1406.6247 \
 DRAM: https://arxiv.org/abs/1412.7755 \
 STN: https://arxiv.org/abs/1506.02025 \
 https://towardsdatascience.com/visual-attention-model-in-deep-learning-708813c2912c \
-https://medium.com/@sunnerli/visual-attention-in-deep-learning-77653f611855 \
+https://medium.com/@sunnerli/visual-attention-in-deep-learning-77653f611855 
 
 https://legacy.gitbook.com/book/leonardoaraujosantos/artificial-inteligence/details
