@@ -5,6 +5,6 @@ https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow/tree/master/Cha
 https://legacy.gitbook.com/book/leonardoaraujosantos/artificial-inteligence/details
 
 AI and deep learning in 2017
-http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/
+http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/ \
 Attention and memory in deep learning and nlp
 http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/
